@@ -376,4 +376,5 @@ export const it: Record<string, string> = {
   "Search index is incomplete; some content may be missing.": "L'indice di ricerca è incompleto; alcuni contenuti potrebbero mancare.",
   "Retry indexing": "Riprova l'indicizzazione",
   "Searching…": "Ricerca in corso…",
+  "Italian": "Italiano"
 };
